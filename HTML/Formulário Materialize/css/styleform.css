@@ -1,0 +1,50 @@
+*{
+        margin:0;
+        padding:0;
+    }
+
+    label{
+    display: inline-block;
+    width: 180px;
+    text-align: left;
+    margin-left: 0px;
+  }
+    div{
+    width: 680px;
+    text-align: left; 
+  }
+
+    .card-panel{
+     display:inline-block; 
+     width: 1000%;
+     font-size: 45px;
+     text-align: left;
+   }
+   #sexo{
+    width: 120px;
+    text-align: left;
+    box-shadow: 0 1px 0 0 #828282;
+   }
+   #curso{
+    width: 260px;
+    text-align: left;
+    box-shadow: 0 1px 0 0 #828282;
+   }
+   #nome{
+    display: inline-block;
+    width: 480px;
+    text-align: left;
+   }
+   #email{
+    display: inline-block;
+    width: 500px;
+    text-align: left;
+   }
+   #endereco{
+    display: inline-block;
+    text-align: left;
+   }
+   #municipio{
+    display: inline-block;
+    text-align: left;
+   }
