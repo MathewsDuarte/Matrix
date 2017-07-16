@@ -1,0 +1,129 @@
+  *{
+        margin:0;
+        padding:0;
+    }
+
+    .card-panel{
+     display:inline-block; 
+     height: 10%;
+     font-size: 60px;
+     text-align: center;
+     margin-top: 4px;
+     position: relative;
+   }
+   #sexo{
+    display: inline-block;
+    text-align: left;
+    box-shadow: 0 1px 0 0 #828282;
+   }
+   #curso{
+    display: inline-block;
+    text-align: left;
+    box-shadow: 0 1px 0 0 #828282;
+   }
+   #nome{
+    display: inline-block;
+    text-align: left;
+   }
+   #email{
+    display: inline-block;
+    text-align: left;
+   }
+   #endereco{
+    display: inline-block;
+    text-align: left;
+   }
+   #municipio{
+    display: inline-block;
+    text-align: left;
+   }
+
+   #uf{
+    display: inline-block;
+    box-shadow: 0 1px 0 0 #828282;
+
+   }
+
+   nav{
+     background-color: #008B8B;
+     
+   }
+
+   #brand-logo2{
+     color:white;
+     font-weight:bold;
+    }
+    
+
+  #btnSalvar{
+    position: relative;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin-bottom: relative;
+    height: relative;
+  }
+
+
+/*
+ * FOOTER
+ */
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  position: relative;
+  margin: 0;
+  padding-bottom: 13rem;
+  min-height: 100%;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+  .page-footer{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+  background-color: #008B8B;
+  height: relative;
+    
+  }
+
+  .footer-copyright{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+  background-color: #008B8B;
+  height: relative;
+
+
+  }
+
+  .collection{
+    text-align: center;
+    font-weight: 50px;
+    color: #848784;
+
+  }
+
+  form{
+    margin-left: 400px;
+    position: relative;
+
+  }
